@@ -1,0 +1,5 @@
+piexif
+Pillow
+opencv-python
+numpy
+flask
